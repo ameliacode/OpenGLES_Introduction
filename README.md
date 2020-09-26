@@ -1,1 +1,1 @@
-# Computer_Graphics-2
+# Introduction to Computer Graphics with OpenGL ES
