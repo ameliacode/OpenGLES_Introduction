@@ -36,7 +36,7 @@
    Add these up, you'll get 612 + (top and bottom vertex) = 614   
    
    <p align="center"><img src="./img.PNG"></p>
-   It actually is 614 vertices total.
+   It actually is 614 vertices in total.
 
 #### 5.
 |vertex array |  index array |
