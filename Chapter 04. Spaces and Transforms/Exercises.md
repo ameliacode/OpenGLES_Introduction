@@ -58,7 +58,7 @@ $$
    
 Answer: 
 $$
- \begin{pmatrix} 
+R^T = \begin{pmatrix} 
  0 & 0 & -1 \\\\
  -1 & 1 & 0 \\\\ 
  \sqrt2 & 0 & 0    
@@ -88,4 +88,8 @@ T = \begin{pmatrix}
 $$
 
 4.
+
+
 5.
+
+6.
