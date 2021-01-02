@@ -41,7 +41,7 @@ glDrawElements(GL_TRIANGLES, 24, GL_UNSIGNED_SHORT, 0);
 
 non-indexed representation:
 
-```
+```c++
 glDrawArrays(GL_TRIANGLES, 0, 24);
 ```
 
