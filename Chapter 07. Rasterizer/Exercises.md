@@ -2,11 +2,11 @@
 
 #### 1.
 
-#### (a)
+#### (a) CW
 
 The triangle's winding order is CW
 
-#### (b)
+#### (b) Negative
 
 Assume that $v_1 = (0,0), v_2 = (0,1), v_3 = (1,0)$.  A vector connects to $v_1$ to $v_2$ would be $(0,1)$ and another vector that connects to $v_1$ to $v_3$ is $(1,0)$ . Following the determinant results in: -1(negative).
 
