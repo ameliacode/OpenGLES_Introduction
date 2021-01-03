@@ -20,14 +20,13 @@ $$
 0 & \frac{h}{2} & 0 & 0 \\\\
 0 & 0 & \frac{maxZ - minZ}{2} &  0\\\\
 0 & 0 & 0 & 1
- \end{pmatrix}
- = 
- \begin{pmatrix}
+\end{pmatrix} = 
+\begin{pmatrix}
 45 & 0 & 0 & 0 \\\\
 0 & 90 & 0 & 0 \\\\
 0 & 0 & \frac{1}{2} & 0\\\\
 0 & 0 & 0 & 1
- \end{pmatrix}
+\end{pmatrix}
 $$
 
 
@@ -40,9 +39,8 @@ $$
 0 & 1 & 0 & minY + \frac{h}{2} \\\\
 0 & 0 & 1 & \frac{maxZ + minZ}{2}\\\\
 0 & 0 & 0 & 1
- \end{pmatrix}
- = 
- \begin{pmatrix}
+\end{pmatrix} = 
+\begin{pmatrix}
 1 & 0 & 0 & 55 \\\\
 0 & 1 & 0 & 110 \\\\
 0 & 0 & 1 &  \frac{3}{2}\\\\
@@ -61,8 +59,7 @@ $$
 0 & \frac{h}{2} & 0 & 0 \\\\
 0 & 0 & \frac{maxZ - minZ}{2} &  0\\\\
 0 & 0 & 0 & 1
- \end{pmatrix}
- = 
+\end{pmatrix} = 
  \begin{pmatrix}
 100 & 0 & 0 & 0 \\\\
 0 & 50 & 0 & 0 \\\\
@@ -81,8 +78,7 @@ $$
 0 & 1 & 0 & minY + \frac{h}{2} \\\\
 0 & 0 & 1 & \frac{maxZ + minZ}{2}\\\\
 0 & 0 & 0 & 1
- \end{pmatrix}
- = 
+ \end{pmatrix} = 
  \begin{pmatrix}
 1 & 0 & 0 & 110 \\\\
 0 & 1 & 0 & 70 \\\\
@@ -91,16 +87,9 @@ $$
  \end{pmatrix}
 $$
 
-
-
-
-
 #### 4.
-=======
-#### 4.  
->>>>>>> 1848a0c891ee0acdf331600eb10423eaba13d3f7
 
-$$  
+$$
 \begin{pmatrix}
 \frac{w}{2} & 0 & 0 & minX + \frac{w}{2}  \\\\
 0 & \frac{h}{2} & 0 & minY + \frac{h}{2} \\\\
@@ -113,8 +102,7 @@ $$
 0 & 0 & \frac{1}{2} &  \frac{1}{2}\\\\
 0 & 0 & 0 & 1
 \end{pmatrix}
-$$ 
-
+$$
 
 #### 5. R = 120,  z = 0.25
 
