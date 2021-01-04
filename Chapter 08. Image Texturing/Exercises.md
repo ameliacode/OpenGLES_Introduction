@@ -32,17 +32,23 @@ $$
 
 #### 5.
 
+#### (a)
+
 |                     Level 2                     |                    Level 3                     |
 | :---------------------------------------------: | :--------------------------------------------: |
 | <p align="center"><img src="./level2.png" ></p> | <p align="center"><img src="./level3.png"></p> |
 
+#### (b) 
 
+| Level 2 and level 3 |
+| :-----------------: |
+|          5          |
 
-#### (a)
+#### (C) 
 
-#### (b) Level 2
-
-#### (C) Level 1
+| Level 0 and Level 1 |
+| :-----------------: |
+|        4.25         |
 
 #### 6. 
 
@@ -59,7 +65,7 @@ High resolution texture can be sampled to sparsely projected pixels (low resolut
 #### 7. 
 
 $$
-l*2^l
+3*l*2^l
 $$
 
 
