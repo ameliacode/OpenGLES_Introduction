@@ -32,6 +32,8 @@ $$
 
 #### 5.
 
+Reference: Anisotropic Filtering (deals with non-isometric footprint)
+
 #### (a)
 
 |                     Level 2                     |                    Level 3                     |
@@ -52,7 +54,7 @@ $$
 
 #### 6. 
 
-#### (a) Alliasing problem might show up
+#### (a) Aliasing problem might show up
 
 High resolution texture can be sampled to sparsely projected pixels (low resolution)
 
