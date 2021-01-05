@@ -1,8 +1,6 @@
 ## Chapter 11 | Exercises
 
 #### 1. Figure 11.6 (b)
-
-<<<<<<< HEAD
 #### 3. 
 
 #### (a)
@@ -10,8 +8,6 @@
 $$
 q = (\sin\frac{\theta}{2}u, \cos\frac{\theta}{2}) = (\sin\frac{\pi}{4}, 0,\sin\frac{\pi}{4}, \cos\frac{\pi}{4})
 $$
-
-
 
 #### (b)
 
@@ -31,18 +27,18 @@ $$
 #### 4. 
 
 While $q$ denotes, "rotation about a unit vector $u$ by $\theta$", $q = (\sin(\frac{\theta}{2}u, \cos(\frac{\theta}{2})))$, let $s$ denote "rotation about u by $2\pi + \theta$". We all know that $s=q$. and $s$ is rephrased as follows:
+
 $$
 s = (\sin(\frac{2\pi+\theta}{2})u, \cos(\frac{2\pi + \theta}{2})) \\
   = (\sin(\pi + \frac{\theta}{2})u, \cos(\pi + \frac{\theta}{2})) \\
-  = (-\sin(\frac{\theta}{2})u, -\cos(\frac{\theta}{2}))
-  = -q
-$$
+  = (-\sin(\frac{\theta}{2})u, -\cos(\frac{\theta}{2})) \\
+  = -q 
+ $$
+
 As all components of $q$ are negated, $ s = -q$, this concludes to $q = -q$, which represent the same rotation.
-=======
+
 #### 2. 
 
 #### 3.
 
 #### 4.
-
->>>>>>> eb500b1fd7ec17dedd67ad117607549d93d84df1
