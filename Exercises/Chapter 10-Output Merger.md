@@ -1,19 +1,5 @@
 ## Chapter 10 | Exercises
 
-<<<<<<< HEAD
-#### 1.
-
-#### 2.
-
-#### 3.
-
-#### 4.
-
-#### 5.
-
-#### 6.
-
-=======
 #### 1. 2
 
 5 cases of updating z buffer on a single fragment color:
@@ -57,7 +43,3 @@ This can't be solved by sorting, only by splitting at least one triangle into se
 Reference: 
 
 [triangles colors render on top of each other]: https://answers.unity.com/questions/1373605/triangles-colors-render-on-top-of-each-other.html
-
-
-
->>>>>>> eb500b1fd7ec17dedd67ad117607549d93d84df1
