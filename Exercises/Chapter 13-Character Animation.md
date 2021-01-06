@@ -1,4 +1,5 @@
 ## Chapter 13 | Exercises
+<<<<<<< HEAD
 
 #### 1. 
 
@@ -7,6 +8,8 @@
 #### (b) It transforms bone space into spine's character space
 
 #### (c) 
+=======
+>>>>>>> e71ae3b125a46d7f0d424e8ab6ba59c1c66d7bf8
 
 $$
 M_{5,d}M_{6,p}
