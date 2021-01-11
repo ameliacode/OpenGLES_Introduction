@@ -195,9 +195,4 @@ $$
 aspect = \frac{\tan(\frac{fovx}{2})}{\tan(\frac{fovy}{2})}
 $$
 
-
-
-
-
-#### 14.
-
+#### 14. Each scenes has different z length in view frustrum
