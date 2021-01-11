@@ -16,6 +16,11 @@ Answer: 10(total times) / 5 (cases) = 2
 
 Not all alpha values are 1 in five fragments, Hence, they must be processed in a back-to-front order after all opaque primitives are processed. 
 
+[Reference]: https://stackoverflow.com/questions/26944202/alpha-blending-transparence-and-z-ordering
+[Reference 2]: https://chnickchu.com/2019/02/13/real-time-game-rendering-alpha-blending-draw-calls/
+
+![](./renderingorder.gif)
+
 #### (b)  (0.5,0.25,0.5)
 
 #### 5.

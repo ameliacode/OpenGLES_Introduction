@@ -32,7 +32,7 @@ $$
 
 #### 5.
 
-Reference: Anisotropic Filtering (deals with non-isometric footprint)
+Reference: Anisotropic Filtering (deals with non-isotropic footprint)
 
 #### (a)
 
